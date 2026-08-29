@@ -1,0 +1,3 @@
+scenario,artifact_located,exact_version_identified,dependencies_identified,citation_target_identified,responsible_researcher_identified,analysis_reproduced,manual_interventions,errors,notes
+Conventional workflow,partial,no,partial,no,partial,partial,high,several,Required manual assumptions about which files matched the reported results and about version dependency and artifact provenance; no stable external identifier for the computational artifact
+Integrated workflow,yes,yes,yes,yes,yes,yes,low,none,Clear route from article to repository to release to archived DOI and from output to ORCID researcher identity; remaining risk is completeness of dependency documentation rather than artifact identification

@@ -1,0 +1,73 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "identifier": "10.5281/zenodo.22164247",
+  "name": "Reproducible Open Science Workflow Evaluation",
+  "description": "Materials, data and scripts supporting a comparative evaluation of an integrated GitHub-Zenodo-ORCID workflow for reproducibility, traceability and transparency in scientific research. The analysis derives twelve reproducibility requirements from the literature, maps them to GitHub, Zenodo and ORCID, and scores a conventional publication-centred workflow against the integrated workflow.",
+  "version": "1.1.0",
+  "codeRepository": "https://github.com/telmomm/github-zenodo-orcid-reproducibility-workflow",
+  "datePublished": "2026-08-29",
+  "dateModified": "2026-08-29",
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": [
+    {
+      "@type": "ComputerLanguage",
+      "name": "Python",
+      "version": ">=3.11"
+    },
+    {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "version": ">=4.0"
+    }
+  ],
+  "softwareRequirements": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "pandas",
+      "runtimePlatform": "Python"
+    }
+  ],
+  "keywords": [
+    "reproducible research",
+    "computational reproducibility",
+    "open science",
+    "GitHub",
+    "Zenodo",
+    "ORCID",
+    "research software",
+    "software citation",
+    "persistent identifiers",
+    "workflow evaluation"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Telmo",
+      "familyName": "Miguel-Medina",
+      "@id": "https://orcid.org/0009-0004-0654-6650",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Burgos"
+      }
+    }
+  ],
+  "maintainer": {
+    "@type": "Person",
+    "givenName": "Telmo",
+    "familyName": "Miguel-Medina",
+    "@id": "https://orcid.org/0009-0004-0654-6650"
+  },
+  "referencePublication": {
+    "@type": "ScholarlyArticle",
+    "name": "Evaluating Whether an Integrated GitHub-Zenodo-ORCID Workflow Improves Reproducibility, Traceability and Transparency in Scientific Research",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Telmo",
+        "familyName": "Miguel-Medina",
+        "@id": "https://orcid.org/0009-0004-0654-6650"
+      }
+    ]
+  }
+}

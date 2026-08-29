@@ -2,4 +2,12 @@ requirement_id,requirement,definition,source_examples
 R1,Researcher identification,Ability to identify responsible contributors,Haak et al. 2012; Haak et al. 2018
 R2,Code availability,Availability of source code used in the study,Blischak et al. 2016; Sandve et al. 2013
 R3,Version control,Ability to track changes and identify versions,Blischak et al. 2016; Braga et al. 2023
-...
+R4,Documentation,Availability of documentation describing the project and how to run it,Wilson et al. 2017; Sandve et al. 2013
+R5,Persistent identification,Assignment of a persistent identifier to artifacts and contributors,Nowak & Nielsen 2016; Haak et al. 2012
+R6,Release management,Ability to define and identify formal versioned releases,Braga et al. 2023; Crystal-Ornelas et al. 2021
+R7,Long-term preservation,Durable archival storage independent of the development platform,Nowak & Nielsen 2016; Rougier et al. 2017
+R8,Traceability,Ability to link outputs to the exact version and to accountable contributors,Khan et al. 2019; Leo et al. 2023
+R9,Software citation,Availability of structured metadata to cite research software,Barker et al. 2022; Rougier et al. 2017
+R10,Discoverability,Ability of others to find the artifacts through indexing and identifiers,Wilkinson et al. 2024; Dias et al. 2026
+R11,Dependency specification,Availability of a complete specification of software dependencies and environment,Ziemann et al. 2023; Molder et al. 2021
+R12,Reproduction instructions,Availability of step-by-step instructions to reproduce the results,Sandve et al. 2013; Wilson et al. 2017

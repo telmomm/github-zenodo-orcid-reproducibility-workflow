@@ -1,0 +1,5 @@
+infrastructure,total_score,max_score,coverage
+GitHub,14,24,0.5833333333333334
+Zenodo,14,24,0.5833333333333334
+ORCID,7,24,0.2916666666666667
+Integrated,23,24,0.9583333333333334

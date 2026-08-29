@@ -1,0 +1,26 @@
+paper_id,researcher_identification,code_availability,version_control,documentation,persistent_identification,release_management,long_term_preservation,traceability,software_citation,discoverability,dependency_specification,reproduction_instructions,notes
+P001,0,1,1,1,0,0,1,1,0,0,1,1,"Foundational rules; provenance, versioning and archiving of exact versions."
+P002,0,1,1,1,1,0,1,1,0,0,1,1,Defines five pillars of computational reproducibility.
+P003,0,1,1,1,0,0,1,1,0,0,1,1,Minimum viable reproducibility practices for typical projects.
+P004,0,1,1,1,0,0,0,0,0,0,0,0,Introductory Git/GitHub tutorial for researchers.
+P005,0,1,1,1,1,1,1,1,1,1,0,1,GitHub for non-programmers; covers releases and Zenodo archiving.
+P006,0,1,0,0,1,1,1,1,1,1,0,0,Platform paper: Zenodo preservation and DOI minting.
+P007,1,0,0,0,1,0,0,1,0,1,0,0,Original ORCID identifier paper.
+P008,1,0,0,0,1,0,0,1,1,1,0,0,ORCID/DOI linkage for research evaluation.
+P009,0,1,1,1,1,1,1,1,0,1,0,1,Peer-reviewed study of GitHub for wet-lab reproducibility.
+P010,0,1,1,1,1,1,1,1,0,1,0,1,arXiv preprint corresponding to the PLOS Biology study.
+P011,0,1,1,1,0,1,0,1,0,0,0,1,GitHub for versioning community data standards.
+P012,0,1,1,1,1,1,1,1,1,1,1,1,"GitHub-based replication journal with archived, citable code."
+P013,1,0,0,0,1,0,0,1,0,1,0,0,Empirical ORCID adoption study; adoption uneven.
+P014,0,1,1,1,1,0,1,1,0,0,1,1,CWLProv interoperable workflow provenance.
+P015,1,1,0,1,1,0,1,1,1,1,1,1,Workflow Run RO-Crate; links agents via ORCID.
+P016,0,1,1,1,1,0,1,1,1,1,1,1,Automated metadata validation and CI testing of workflows.
+P017,1,1,0,1,1,0,1,1,1,1,1,1,FAIR Principles specialised for computational workflows.
+P018,1,1,1,1,1,1,1,1,1,1,1,0,FAIR Principles for research software.
+P019,0,1,0,1,1,0,0,1,1,1,1,1,"Links papers, tools and executable code automatically."
+P020,0,1,1,1,0,1,1,1,1,1,1,1,GitHub Actions templates with containers for R.
+P021,0,1,1,1,0,0,0,0,1,0,1,1,Snakemake workflow engine; dependencies and provenance.
+P022,0,1,1,1,1,0,1,1,1,1,1,1,WORCS end-to-end open reproducible code workflow.
+P023,0,1,1,1,1,0,1,1,0,1,0,1,Scripted R interface to OSF.
+P024,1,0,0,0,1,0,0,1,0,1,0,0,National PID/ORCID coverage analysis (Brazil).
+P025,1,0,0,0,1,0,1,1,0,1,0,0,STS critique of fragmented scholarly infrastructure.

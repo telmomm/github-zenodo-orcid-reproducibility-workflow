@@ -3,9 +3,11 @@ Code available,1,2,2,Baseline includes supplementary files; integrated workflow 
 Version identifiable,0,2,2,Baseline lacks release information; GitHub release identifies version
 Persistent identifier,0,2,2,Zenodo DOI assigned to release
 Documentation,1,2,2,README and docs included
-Dependencies specified,1,2,2,Dependencies documented in repository
+Dependencies specified,1,1,2,Baseline and integrated workflow both document dependencies manually; neither guarantees a complete executable environment
 Researcher identifiable,1,2,2,ORCID included
 Release identifiable,0,2,2,GitHub release and Zenodo archive
 Citation mechanism,1,2,2,CITATION.cff and DOI
 Long-term archive,0,2,2,Zenodo archive
 Reproduction instructions,1,2,2,Protocol included
+Traceability,0,2,2,Baseline lacks an explicit version-to-publication trace; GitHub history and Zenodo version DOIs with ORCID linkage provide it
+Discoverability,1,2,2,Baseline discoverable only through journal supplementary materials; Zenodo indexing and a resolvable DOI improve findability

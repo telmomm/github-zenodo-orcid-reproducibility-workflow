@@ -1,0 +1,13 @@
+requirement,n_studies,n_total,pct_studies
+traceability,23,25,0.92
+code_availability,20,25,0.8
+documentation,19,25,0.76
+persistent_identification,19,25,0.76
+discoverability,18,25,0.72
+long_term_preservation,17,25,0.68
+reproduction_instructions,17,25,0.68
+version_control,16,25,0.64
+dependency_specification,13,25,0.52
+software_citation,12,25,0.48
+researcher_identification,8,25,0.32
+release_management,8,25,0.32

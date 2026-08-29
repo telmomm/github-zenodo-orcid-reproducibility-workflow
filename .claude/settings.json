@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sed 's/\\\\$$//')",
+      "Bash(file \"state of the art/\"*)",
+      "Bash(python3 -c ' *)",
+      "Bash(./.venv/bin/python \"/private/tmp/claude-501/-Users-telmomm-Desktop-github-zenodo-orcid-reproducibility-workflow/4db7a3bb-01f7-475a-8bab-1ddc77851c63/scratchpad/gen_literature.py\")",
+      "Bash(../.venv/bin/python calculate_scores.py)",
+      "Bash(./.venv/bin/pip install *)",
+      "Bash(./.venv/bin/python -m pytest tests/ -q)",
+      "Bash(../.venv/bin/python -m pytest -q)",
+      "Bash(./.venv/bin/python -)",
+      "Bash(./.venv/bin/python \"/private/tmp/claude-501/-Users-telmomm-Desktop-github-zenodo-orcid-reproducibility-workflow/4db7a3bb-01f7-475a-8bab-1ddc77851c63/scratchpad/edit_docx.py\")",
+      "Bash(pandoc manuscript/paper.docx -t plain)"
+    ]
+  }
+}

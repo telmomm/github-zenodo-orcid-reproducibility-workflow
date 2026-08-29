@@ -8,5 +8,6 @@ authors:
     orcid: "https://orcid.org/0009-0004-0654-6650"
 repository-code: "https://github.com/telmomm/github-zenodo-orcid-reproducibility-workflow"
 doi: "10.5281/zenodo.22164247"
+version: "1.1.0"
 date-released: "2026-08-29"
 license: "MIT"

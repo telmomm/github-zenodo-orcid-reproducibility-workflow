@@ -2,4 +2,12 @@ requirement_id,requirement,github_score,zenodo_score,orcid_score,integrated_scor
 R1,Researcher identification,0,1,2,2,ORCID provides persistent researcher identity
 R2,Code availability,2,1,0,2,GitHub provides repository access; Zenodo archives releases
 R3,Version control,2,0,0,2,GitHub provides version history and releases
-...
+R4,Documentation,2,1,0,2,GitHub hosts README and wiki documentation; Zenodo stores a description with the deposit
+R5,Persistent identification,0,2,2,2,Zenodo mints DOIs for artifacts; ORCID is a persistent identifier for contributors
+R6,Release management,2,1,0,2,GitHub defines tagged releases; Zenodo archives each release as a distinct version
+R7,Long-term preservation,0,2,0,2,Zenodo provides CERN-backed long-term preservation independent of the platform
+R8,Traceability,2,1,1,2,GitHub history traces outputs to commits; Zenodo version DOIs and ORCID linkage complete the trace
+R9,Software citation,1,2,1,2,GitHub carries CITATION.cff; Zenodo provides the citable DOI; ORCID appears in the metadata
+R10,Discoverability,1,2,1,2,Zenodo is indexed and DOI-resolvable; GitHub search and ORCID work lists add reach
+R11,Dependency specification,1,0,0,1,GitHub can hold dependency files but completeness is not enforced; Zenodo and ORCID do not address it
+R12,Reproduction instructions,1,1,0,2,GitHub and Zenodo can hold a protocol but the instructions still depend on the author
