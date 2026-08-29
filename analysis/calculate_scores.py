@@ -1,6 +1,10 @@
 import pandas as pd
+import os
 
-df = pd.read_csv("../data/baseline_vs_workflow_scores.csv")
+print("Directorio actual:", os.getcwd())
+print("Archivos aquí:", os.listdir())
+
+df = pd.read_csv("data/baseline_vs_workflow_scores.csv")
 
 baseline = df["baseline_score"].sum()
 integrated = df["integrated_score"].sum()
@@ -13,6 +17,6 @@ results = pd.DataFrame({
     "reproducibility_score": [baseline / maximum, integrated / maximum]
 })
 
-results.to_csv("../results/reproducibility_scores.csv", index=False)
+results.to_csv("results/reproducibility_scores.csv", index=False)
 
 print(results)
