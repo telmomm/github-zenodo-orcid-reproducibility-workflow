@@ -1,0 +1,5 @@
+requirement_id,requirement,definition,source_examples
+R1,Researcher identification,Ability to identify responsible contributors,Haak et al. 2012; Haak et al. 2018
+R2,Code availability,Availability of source code used in the study,Blischak et al. 2016; Sandve et al. 2013
+R3,Version control,Ability to track changes and identify versions,Blischak et al. 2016; Braga et al. 2023
+...

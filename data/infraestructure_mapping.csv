@@ -1,0 +1,5 @@
+requirement_id,requirement,github_score,zenodo_score,orcid_score,integrated_score,justification
+R1,Researcher identification,0,1,2,2,ORCID provides persistent researcher identity
+R2,Code availability,2,1,0,2,GitHub provides repository access; Zenodo archives releases
+R3,Version control,2,0,0,2,GitHub provides version history and releases
+...

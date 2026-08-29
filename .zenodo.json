@@ -1,0 +1,22 @@
+{
+  "title": "Reproducible Open Science Workflow Evaluation",
+  "description": "Materials, data and scripts supporting a comparative evaluation of a GitHub-Zenodo-ORCID workflow for reproducible research.",
+  "creators": [
+    {
+      "name": "Miguel-Medina, Telmo",
+      "orcid": "0009-0004-0654-6650",
+      "affiliation": "University of Burgos"
+    }
+  ],
+  "keywords": [
+    "reproducible research",
+    "open science",
+    "GitHub",
+    "Zenodo",
+    "ORCID",
+    "research software",
+    "persistent identifiers"
+  ],
+  "license": "MIT",
+  "upload_type": "software"
+}
