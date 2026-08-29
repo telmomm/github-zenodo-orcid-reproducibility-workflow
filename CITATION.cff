@@ -5,8 +5,8 @@ type: software
 authors:
   - family-names: Miguel-Medina
     given-names: Telmo
-    orcid: "https://orcid.org/0009-0004-0654-6650X"
+    orcid: "https://orcid.org/0009-0004-0654-6650"
 repository-code: "https://github.com/telmomm/github-zenodo-orcid-reproducibility-workflow"
-doi: "to be assigned by Zenodo"
-date-released: "2026-XX-XX"
+doi: "10.5281/zenodo.22164247"
+date-released: "2026-08-29"
 license: "MIT"

@@ -1,5 +1,7 @@
 # Reproducible Open Science Workflow Evaluation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22164247.svg)](https://doi.org/10.5281/zenodo.22164247)
+
 ## Purpose
 This repository contains the materials used to evaluate whether an integrated GitHub–Zenodo–ORCID workflow improves reproducibility, traceability and transparency compared with a conventional publication-centred workflow.
 
