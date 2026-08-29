@@ -50,9 +50,7 @@ reproducibility requirements) instead of the partial placeholder data shipped in
 - `manuscript/paper.docx`: abstract, Section 2.6, Section 3 results paragraph,
   Section 4 discussion and Table 1 updated to the 12-criterion scoring and the new
   percentages. Backup kept as `manuscript/paper.docx.bak`.
-- `docs/scoring_criteria.md`: maximum score 20 -> 24; "Ten criteria" -> "Twelve
-  criteria"; evaluation results updated.
-- `00_files.md`: file tree aligned with the actual repository contents.
+- `docs/scoring_criteria.md`: maximum score 20 -> 24; "Ten criteria" 
 
 ## [1.0.0] - 2026-08-29
 
